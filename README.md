@@ -1,4 +1,4 @@
-# Flask Restful API example
+# Flask Restful API example (work in progress)
 Here is a sample API using SQLAlchemy, Marshamllow and Flask Restful. Split into several service layers: Validation layer, REST Controller, Service Layer, Repository Layer. The goal of this repository is to provide a foundation for people to build a complex API aswell as show how SQLAlchemy, Marshmallow and Flask interact with eachother. I am by no means a master of flask or SQLAlchemy or Marshmallow so feel free to improve this code base or fix any errors I may have made ;) 
 
 # Documentation:
